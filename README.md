@@ -84,6 +84,22 @@ Both models successfully learned the general trend of Microsoft's stock prices.
 
 The prediction plots show that the GRU model follows the actual closing prices more closely than the LSTM model under the selected experimental settings.
 
+### Closing Price Trend
+
+![Closing Price Trend](closingpricetrend.png)
+
+### LSTM Prediction
+
+![LSTM Prediction](lstmprediction.png)
+
+### GRU Prediction
+
+![GRU Prediction](gruprediction.png)
+
+### Model Comparison
+
+![Model Comparison](modelcomparison.png)
+
 ---
 
 ## Future Work
