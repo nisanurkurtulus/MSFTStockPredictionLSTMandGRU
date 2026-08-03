@@ -132,3 +132,7 @@ MSFT-Stock-Prediction-LSTM-GRU/
 3. Open the Jupyter Notebook.
 4. Run all notebook cells sequentially.
 5. Compare the LSTM and GRU prediction results.
+
+## Author
+
+**Nisanur Kurtuluş**
